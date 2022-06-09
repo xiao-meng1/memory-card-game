@@ -1,0 +1,22 @@
+.card {
+  display: grid;
+  grid-template-rows: 1fr auto;
+  height: 300px;
+  width: 200px;
+  background-color: honeydew;
+  border: solid grey 2px;
+  border-radius: 20px;
+}
+
+.img {
+  justify-self: center;
+  align-self: center;
+  height: 200px;
+  width: 200px;
+}
+
+.h2 {
+  text-align: center;
+  padding: 10px;
+  opacity: 70%;
+}
