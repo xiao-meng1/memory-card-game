@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/xiao-meng1/memory-card-game/static/css/main.ab297939.css",
+    "main.js": "/xiao-meng1/memory-card-game/static/js/main.26cf3d87.js",
+    "static/media/500px-Donkey_Kong_SSBU.webp": "/xiao-meng1/memory-card-game/static/media/500px-Donkey_Kong_SSBU.6dc876acea9bbc8d06c4.webp",
+    "static/media/500px-Mario_SSBU.webp": "/xiao-meng1/memory-card-game/static/media/500px-Mario_SSBU.af17c0d9c7506e581c04.webp",
+    "static/media/500px-Link_SSBU.webp": "/xiao-meng1/memory-card-game/static/media/500px-Link_SSBU.598291f6270e67b8746d.webp",
+    "static/media/500px-Luigi_SSBU.webp": "/xiao-meng1/memory-card-game/static/media/500px-Luigi_SSBU.f06a4b693614baef8ef1.webp",
+    "static/media/500px-Fox_SSBU.webp": "/xiao-meng1/memory-card-game/static/media/500px-Fox_SSBU.ff8823cee1f917804bed.webp",
+    "static/media/500px-Captain_Falcon_SSBU.webp": "/xiao-meng1/memory-card-game/static/media/500px-Captain_Falcon_SSBU.0b8c87142019db099115.webp",
+    "static/media/500px-Samus_SSBU.webp": "/xiao-meng1/memory-card-game/static/media/500px-Samus_SSBU.548835c974c0a0f3cba8.webp",
+    "static/media/500px-Yoshi_SSBU.webp": "/xiao-meng1/memory-card-game/static/media/500px-Yoshi_SSBU.b2090d550cb17db08e5e.webp",
+    "static/media/500px-Ness_SSBU.webp": "/xiao-meng1/memory-card-game/static/media/500px-Ness_SSBU.ac3b7c4a308113c0f87e.webp",
+    "static/media/500px-Jigglypuff_SSBU.webp": "/xiao-meng1/memory-card-game/static/media/500px-Jigglypuff_SSBU.c6fdb5a2fa4ca5ad5449.webp",
+    "static/media/500px-Pikachu_SSBU.webp": "/xiao-meng1/memory-card-game/static/media/500px-Pikachu_SSBU.c6f903e417f291425778.webp",
+    "static/media/500px-Kirby_SSBU.webp": "/xiao-meng1/memory-card-game/static/media/500px-Kirby_SSBU.bc5e138976b63a951b32.webp",
+    "index.html": "/xiao-meng1/memory-card-game/index.html",
+    "main.ab297939.css.map": "/xiao-meng1/memory-card-game/static/css/main.ab297939.css.map",
+    "main.26cf3d87.js.map": "/xiao-meng1/memory-card-game/static/js/main.26cf3d87.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab297939.css",
+    "static/js/main.26cf3d87.js"
+  ]
+}
